@@ -1,0 +1,7 @@
+Creating image :  docker build -t jenkins1:v1 /root/ws/
+
+Starting Container: docker run -it --name {name} -p 8089:8080 jenkin:v1
+
+
+
+
